@@ -1,0 +1,27 @@
+{
+    "velocities": {
+        "default_velocity": [0.0, 0.0, 0.0, 0.0],
+        "hover": [0.0, 0.0, 0.0, 0.1],
+        "forward_flight": [0.0, 0.1, 0.0, 0.1],
+        "backward_flight": [0.1, 0.0, 0.1, 0.0],
+        "movement": [0.2, 0.0, 0.0, 0.1],
+        "left_turn": [0.0, -0.1, 0.2, 0.05],
+        "right_turn": [0.0, 0.1, -0.2, 0.05],
+        "ascend": [0.0, 0.0, 0.0, 0.15],
+        "descend": [0.0, 0.0, 0.0, -0.05],
+        "circle_left": [0.1, -0.1, 0.3, 0.08],
+        "circle_right": [0.1, 0.1, -0.3, 0.08]
+    },
+    "velocities_update": {
+        "hover": [0.0, 0.0, 0.0, 0.0],
+        "pitch_forward": [0.0, 0.1, 0.0, 0.1],
+        "pitch_backward": [0.1, -0.1, 0.1, -0.1],
+        "roll_left": [-0.1, -0.1, 0.1, 0.1],
+        "roll_right": [0.1, 0.1, -0.1, -0.1],
+        "throttle_up": [0.1, 0.1, 0.1, 0.1],
+        "throttle_down": [-0.05, -0.05, -0.05, -0.05],
+        "yaw_counter_clockwise": [0.1, -0.1, 0.1, -0.1],
+        "yaw_clockwise": [-0.1, 0.1, -0.1, 0.1]
+    } 
+}
+
